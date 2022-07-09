@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&color=414141&background=FFFFFF00&vCenter=true&lines=%F0%9F%91%8B+Hello+World!!;%E2%98%95+My+name+is+Henrique+Leme+;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 <!--
 **henrique-leme/henrique-leme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
