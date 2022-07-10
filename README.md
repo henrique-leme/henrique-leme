@@ -16,6 +16,7 @@
 </p>
 
 <!-- //BIO// -->
+
 ## I'm a Student Developer ☕
   My name is Henrique Leme, I'm 18 years old, I'm borned and living at São Paulo and 
   I'm currently graduating in Universidade Anhembi Morumbi at the first semester of Bachelor degree in Science Computer.
@@ -28,5 +29,14 @@
 <br>
 📙 I'm currently focusing on Java
 <br>
+
+## Github stats 📊 
+
+<details> 
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Herique-Leme's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=henrique-leme&show_icons=true&count_private=true&theme=gruvbox&hide_border=true" height="192px"/></a>
+  <br/>
+</details>
 
 
