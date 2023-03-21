@@ -18,14 +18,14 @@
 <!-- //BIO// -->
 
 ## I'm a Student Developer ☕
-  My name is Henrique Leme, I'm 18 years old, I'm borned and living at São Paulo and 
+  My name is Henrique Leme, I'm 19 years old, I'm borned and living at São Paulo and 
   I'm currently graduating in Universidade Anhembi Morumbi at the first semester of Bachelor degree in Science Computer.
   I study to become a Full-Stack Developer capable of resolve any problem that come in my way and help others tha need a hand to solve their problems.
   
 <br>
 🌱 I’m currently learning a bit of everything 
 <br>
-📚 My goals of 2022 is become an Junior Developer and make more projects
+📚 My goals of 2023 is become an Junior Developer and make more projects
 <br>
 📙 I'm currently focusing on Java
 <br>
