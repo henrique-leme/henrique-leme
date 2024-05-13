@@ -4,11 +4,14 @@
 <!-- //BIO// -->
 
 ## I'm a Backend Developer ☕
-  My name is Henrique Leme, I'm 20 years old, I'm borned and living at São Paulo and I'm currently graduating myself in Bachelor degree of Science Computer.
-  I study to become a Developer capable of resolve any problem that come in my way and help others tha need a hand to solve their own.
+  Hi, I'm Henrique Leme, a 20-year-old software engineer with a passion for exploring various aspects of coding
+  <br>
+  Born and residing in São Paulo, I am currently working towards a Bachelor's degree in Computer Science.
+  <br>
+  My goal is to become a versatile developer, capable of tackling any challenge that comes my way and assisting others in solving their own.
 
 <br>
-🌱 I’m currently focusing on improve my backend skills
+🌱 I’m specializing my backend skills
 <br>
 📚 My goals of 2024 is become an Mid-Level Developer and contribute with the tech community
 <br>
