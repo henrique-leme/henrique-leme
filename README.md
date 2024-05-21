@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&color=414141&background=FFFFFF00&vCenter=true&lines=%F0%9F%91%8B+Hello+World!!;%E2%98%95+My+name+is+Henrique+Leme+;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 <!-- //BIO// -->
 
-## I'm a Backend Developer ☕
+## I'm a Full-Stack Developer ☕
   Hi, I'm Henrique Leme, a 20-year-old software engineer with a passion for exploring various aspects of coding
   <br>
   Born and residing in São Paulo, I am currently working towards a Bachelor's degree in Computer Science.
