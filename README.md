@@ -4,7 +4,7 @@
 <!-- //BIO// -->
 
 ## I'm a Full-Stack Developer ☕
-  Hi, I'm Henrique Leme, a 20-year-old software engineer with a passion for exploring various aspects of coding
+  Hi, I'm Henrique Leme, a 21-year-old software engineer with a passion for exploring various aspects of coding
   <br>
   Born and residing in São Paulo, I am currently working towards a Bachelor's degree in Computer Science.
   <br>
